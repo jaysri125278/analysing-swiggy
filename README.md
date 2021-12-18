@@ -4,7 +4,7 @@
 
 * [Overview](#Overview)
 * [Dataset](#Dataset)
-* [Power BI Report](#Power BI Report)
+* [PowerBIReport](#Power BI Report)
 
 ## Overview
 Swiggy analysis project aims to provide an analysis of swiggy dataset of Bangalore delivery outlet data
