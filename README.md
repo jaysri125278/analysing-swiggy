@@ -12,4 +12,8 @@ Swiggy analysis project aims to provide an analysis of swiggy dataset of Bangalo
 You can find the dataset [here](https://www.kaggle.com/sabinhashmi/swiggy-bangalore-delivery-outlet-data)
 
 ## Power BI Report
+![](swiggy1.png)
+![](swiggy2.png)
+![](swiggy3.png)
+
 
